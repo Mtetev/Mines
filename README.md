@@ -22,9 +22,6 @@ To-do list:
 ## Setup
 To run open the Mines.jar file
 
-## Features
-List of features ready and TODOs for future development
-
 ## Status
 Project is in progress.
 
