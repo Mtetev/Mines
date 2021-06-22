@@ -1,0 +1,4 @@
+minesCount=20
+rowCount=30
+columnCount=30
+allowQuestionMarks=yes
